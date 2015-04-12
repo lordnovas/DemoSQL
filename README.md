@@ -1,0 +1,3 @@
+# DemoSQL
+
+SQL practice
